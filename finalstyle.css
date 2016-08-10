@@ -1,0 +1,21 @@
+.homepage{
+  background-image: url(https://i.imgur.com/a/mnHkY.png);
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+.intro{
+
+    text-align: center;
+    padding:10% 10% 2%;
+    font-size: 110px;
+    color:black;
+    font-family: 'Oswald', serif;
+}
+.about{
+  font-size: 70px;
+  color: black;
+  text-align: center;
+    padding:5%;
+    font-family: 'Arimo', serif;
+}
